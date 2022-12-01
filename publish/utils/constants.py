@@ -1,0 +1,4 @@
+LOG_ZERO = -100_000_000
+
+FORWARD  = 'fwd'
+BACKWARD = 'back'
